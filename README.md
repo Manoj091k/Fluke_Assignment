@@ -19,7 +19,7 @@
 
 # Installation
 
-1. Install Node from https://nodejs.org/en/download/
+1. Install Node from "https://nodejs.org/en/download/"
 2. Install npm npm install npm@latest -g
 3. Now browse to the project folder ###FLUKE_ASSIGNMENT
 4. Now Run "npm init" to create the package.json
