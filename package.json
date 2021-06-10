@@ -1,0 +1,21 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install &&node node_modules/protractor/bin/webdriver-manager update --versions.chrome=89.0.4389.90"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "fs-extra": "10.0.0",
+    "jasmine": "^3.6.1",
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-reporters": "^2.4.0",
+    "protractor": "^7.0.0",
+    "protractor-html-reporter-2": "^1.0.4",
+    "protractor-xml2html-reporter": "^2.2.0"
+  }
+}

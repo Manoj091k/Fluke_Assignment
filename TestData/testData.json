@@ -1,0 +1,18 @@
+
+{
+
+"roles": ["Technician","Project Manager","Customer","Site Manager","Owner","Admin","Super Admin"],
+
+"projects": ["Cameron Networks","Keith Cabeling Systems","Simon Electric Systems","Nicholas Services","Stephen Computers",
+"Buckland Inc","Jim's Organization","Sean's Organization","Rhoda's Organization","Joe's Organization","Brad's Organization",
+"Oliver Org","Sebastian's Organization","Alexandra's Wireless","Wallace Networks","Paterson Networking Systems","Fluke Networks",
+"Allan's fluke","Richard's Organization","Ardeshir's Organization","Robertson Mechtronics","Matthew's Organization","Kevin's Great Org",
+"Richa Test Organization","John's Organization","Mary & Maria Media","Kremer Fnet","J's Organization","Kevin's Organization",
+"Elizabeth Organization"],
+"title": "Fluke Network App",
+"header": "FLUKE NETWORKS",
+"RolePage": "Find users by selecting role",
+"ProjectPage": "Find projects by selecting organizations"
+
+
+}

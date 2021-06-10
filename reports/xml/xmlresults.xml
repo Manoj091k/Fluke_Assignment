@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="8" time="59.71">
+ <testsuite name="Project homepage todo list" timestamp="2021-06-10T14:14:46" hostname="localhost" time="40.001" errors="0" tests="6" skipped="0" disabled="0" failures="0">
+  <testcase classname="Project homepage todo list" name="should display Technician User roles, @Sanity,@Smoke,@Regression" time="6.86" />
+  <testcase classname="Project homepage todo list" name="should display Project Manager User roles, @Sanity,@Regression" time="5.853" />
+  <testcase classname="Project homepage todo list" name="should display Customer User roles, @Sanity,@Regression" time="5.697" />
+  <testcase classname="Project homepage todo list" name="should display Site Manager User roles, @Sanity,@Smoke,@Regression" time="5.539" />
+  <testcase classname="Project homepage todo list" name="should display Owner User roles, @Sanity,@Smoke,@Regression" time="5.603" />
+  <testcase classname="Project homepage todo list" name="should display Admin User roles, @Sanity,@Smoke,@Regression" time="5.58" />
+ </testsuite>
+ <testsuite name="User Role homepage todo list" timestamp="2021-06-10T14:15:26" hostname="localhost" time="19.709" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="User Role homepage todo list" name="should display &quot;Keith Cabeling Systems&quot; Project details, @Sanity,@Smoke,@Regression" time="7.709" />
+  <testcase classname="User Role homepage todo list" name="should display &quot;Cameron Networks&quot; Project details, @Sanity,@Smoke,@Regression" time="0.512" />
+ </testsuite>
+</testsuites>
