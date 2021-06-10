@@ -15,7 +15,7 @@
     "jasmine-data-provider": "^2.2.0",
     "jasmine-reporters": "^2.4.0",
     "protractor": "^7.0.0",
-    "protractor-html-reporter-2": "^1.0.4",
-    "protractor-xml2html-reporter": "^2.2.0"
+    "protractor-html-reporter-2": "^1.0.4"
+ 
   }
 }
