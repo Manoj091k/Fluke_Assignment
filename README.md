@@ -11,7 +11,7 @@
  
 
 
-## TestPlan for User: 
+## TestPlan for Projects: 
 1. Verify to open the URL
 2. Verify to navigate the roject Tab
 3. Verify the Projects dropdown and the Content of Project dropdown by Jasmine assertion and Excel sheet Ierator
